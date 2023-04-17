@@ -1,0 +1,7 @@
+Persona [codPersona=0, nombre=nombre0, apellido=apellido0, edad=20]
+Persona [codPersona=1, nombre=nombre1, apellido=apellido1, edad=21]
+Persona [codPersona=2, nombre=nombre2, apellido=apellido2, edad=22]
+Persona [codPersona=3, nombre=nombre3, apellido=apellido3, edad=23]
+Persona [codPersona=4, nombre=nombre4, apellido=apellido4, edad=24]
+Persona [codPersona=5, nombre=nombre5, apellido=apellido5, edad=25]
+Persona [codPersona=6, nombre=nombre6, apellido=apellido6, edad=26]
